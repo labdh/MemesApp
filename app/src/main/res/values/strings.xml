@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimePass</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="get_memes">GET MEMES</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+</resources>
